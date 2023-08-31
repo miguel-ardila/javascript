@@ -115,7 +115,7 @@ if (frase.includes("si")) {
 
 // javascript bucles y funciones
 
-let contador = 1;
+/* let contador = 1;
 
 while (contador <= 5) {
 console.log(contador);
@@ -151,10 +151,10 @@ for (let validacion of notas){
     } else {
         console.log("Aprobaste la materia con nota de: " + contadorNotas++)
 }
-}
+} */
 // COMENTAR RAPIDO alt+shift+A
 
-var n1 = window.prompt("Ingrese el primer número: ");
+/* var n1 = window.prompt("Ingrese el primer número: ");
 var n2 = window.prompt("Ingrese el segundo número: ");
 
 if (n1 > n2) {
@@ -162,3 +162,5 @@ alert(n1 + " es el número mayor.");
 } else {
 alert(n2 + " es el número mayor.");
 }
+ */
+
